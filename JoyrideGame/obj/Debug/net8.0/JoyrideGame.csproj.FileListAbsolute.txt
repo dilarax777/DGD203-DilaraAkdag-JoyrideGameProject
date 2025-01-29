@@ -1,0 +1,14 @@
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/bin/Debug/net8.0/JoyrideGame
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/bin/Debug/net8.0/JoyrideGame.deps.json
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/bin/Debug/net8.0/JoyrideGame.runtimeconfig.json
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/bin/Debug/net8.0/JoyrideGame.dll
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/bin/Debug/net8.0/JoyrideGame.pdb
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/obj/Debug/net8.0/JoyrideGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/obj/Debug/net8.0/JoyrideGame.AssemblyInfoInputs.cache
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/obj/Debug/net8.0/JoyrideGame.AssemblyInfo.cs
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/obj/Debug/net8.0/JoyrideGame.csproj.CoreCompileInputs.cache
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/obj/Debug/net8.0/JoyrideGame.dll
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/obj/Debug/net8.0/refint/JoyrideGame.dll
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/obj/Debug/net8.0/JoyrideGame.pdb
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/obj/Debug/net8.0/JoyrideGame.genruntimeconfig.cache
+/Users/dilara/Desktop/JoyrideGame/JoyrideGame/obj/Debug/net8.0/ref/JoyrideGame.dll
